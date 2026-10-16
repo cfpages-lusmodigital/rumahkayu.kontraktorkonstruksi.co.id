@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://rumahkayu.kontraktorkonstruksi.co.id/sitemap.xml
